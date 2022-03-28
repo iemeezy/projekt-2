@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+header {
+    background: rgb(144, 22, 224);
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body {
+    background-color: #f88ede;
+  }
